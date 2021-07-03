@@ -1,6 +1,6 @@
 
 # Horiseon-Home-Page
-The owners of the Horiseon Home Page are requesting the code to their homepage be refactor so it is more accesible and more efficient.
+The owners of the Horiseon Home Page are requesting the code to their homepage be refactored so it is more accesible and more efficient.
 ## User-Story
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
