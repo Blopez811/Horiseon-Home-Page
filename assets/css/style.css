@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Header section with layout and styling of the text */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +25,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/*Navigation section with styling for the anchor links in the unorganized list within the header*/
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/*Styling for the hero image underneath the header*/
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +62,7 @@ p {
     background-position: center;
 }
 
+/*Moving the images inside the 3 sections of the <main> tag to the left or right of the container they are in*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,12 +73,14 @@ p {
     margin-left: 25px;
 }
 
+/*Styling for the <main> container that splits into 3 <sections>*/
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*Styling for the <aside> container on the right side of the webpage*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -86,6 +92,7 @@ aside {
     background-color: #2589bd;
 }
 
+/*Styling for the benefits class items found inside the <aside> container*/
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -102,6 +109,7 @@ aside {
     max-width: 150px;
 }
 
+/*Styling for the services class items found inside the <main> container */
 .services {
     margin-bottom: 20px;
     padding: 50px;
@@ -120,6 +128,7 @@ aside {
     font-size: 36px;
 }
 
+/* Styling for the footer found at the bottom of the webpage*/
 footer {
     padding: 30px;
     clear: both;
