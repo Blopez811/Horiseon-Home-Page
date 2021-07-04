@@ -1,5 +1,5 @@
 
-# Horiseon-Home-Page
+# Horiseon-Home-Page-Code-Refactor
 The owners of the Horiseon Home Page are requesting the code to their homepage be refactored so it is more accesible and more efficient.
 ## User-Story
 AS A marketing agency
